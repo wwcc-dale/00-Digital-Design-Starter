@@ -1,0 +1,14 @@
+CONTEXT*
+.DS_Store
+.DS_Srore
+
+# Large Assets
+planning/
+assets/video/
+
+
+# Zaphod build artifacts
+**/meta.json
+**/source.md
+_course_metadata/
+quiz_cache.json

@@ -1,0 +1,10 @@
+course_id: 14456619
+
+prune:
+  apply: true
+  assignments: true
+
+watch:
+  debounce: 2.0
+
+video_quality: medium

@@ -1,0 +1,39 @@
+course_outcomes:
+
+  - code: "ORI-1"
+    title: "Understand Program Structure and Expectations"
+    description: >
+      Identify the structure, pace requirements, rules, and support systems
+      of the WWCC Digital Design program.
+    vendor_guid: "ORI-1"
+    mastery_points: 3
+    ratings:
+      - points: 4
+        description: "Exceeds — Demonstrates thorough, accurate understanding of all program expectations"
+      - points: 3
+        description: "Meets — Demonstrates accurate understanding of core program expectations"
+      - points: 2
+        description: "Approaching — Demonstrates partial understanding; some gaps remain"
+      - points: 1
+        description: "Beginning — Demonstrates minimal understanding of program expectations"
+      - points: 0
+        description: "No Evidence"
+
+  - code: "ORI-2"
+    title: "Apply Professional File Organization"
+    description: >
+      Create and maintain a professional, consistently named folder structure
+      for digital design coursework.
+    vendor_guid: "ORI-2"
+    mastery_points: 3
+    ratings:
+      - points: 4
+        description: "Exceeds — Folder structure is complete, correctly named, and clearly organized beyond requirements"
+      - points: 3
+        description: "Meets — Folder structure is complete and correctly named"
+      - points: 2
+        description: "Approaching — Folder structure is mostly complete with minor naming errors"
+      - points: 1
+        description: "Beginning — Folder structure is incomplete or significantly incorrect"
+      - points: 0
+        description: "No Evidence"

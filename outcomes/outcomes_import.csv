@@ -1,0 +1,5 @@
+vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,workflow_state,parent_guids,mastery_points,ratings,,,,,,,,,
+ORI-1,outcome,Understand Program Structure and Expectations,"Identify the structure, pace requirements, rules, and support systems of the WWCC Digital Design program.
+",ORI-1,,,active,,3,4,"Exceeds — Demonstrates thorough, accurate understanding of all program expectations",3,Meets — Demonstrates accurate understanding of core program expectations,2,Approaching — Demonstrates partial understanding; some gaps remain,1,Beginning — Demonstrates minimal understanding of program expectations,0,No Evidence
+ORI-2,outcome,Apply Professional File Organization,"Create and maintain a professional, consistently named folder structure for digital design coursework.
+",ORI-2,,,active,,3,4,"Exceeds — Folder structure is complete, correctly named, and clearly organized beyond requirements",3,Meets — Folder structure is complete and correctly named,2,Approaching — Folder structure is mostly complete with minor naming errors,1,Beginning — Folder structure is incomplete or significantly incorrect,0,No Evidence

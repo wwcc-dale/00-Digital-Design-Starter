@@ -1,0 +1,93 @@
+title: "File Directory Setup Rubric"
+free_form_criterion_comments: true
+
+criteria:
+
+  - description: "Folder Structure Completeness"
+    long_description: >
+      All required folders are present: the correctly named root folder,
+      all four top-level folders, and all sub-folders within each.
+    points: 10
+    use_range: false
+    ratings:
+      - description: "Excellent (10)"
+        long_description: >
+          All required folders are present, correctly named, and in the
+          right location on the shared drive. Structure matches the
+          specification exactly.
+        points: 10
+      - description: "Proficient (8)"
+        long_description: >
+          All required folders are present with one or two minor naming
+          errors (e.g., wrong capitalization, extra spaces). Location is correct.
+        points: 8
+      - description: "Developing (5)"
+        long_description: >
+          Some required folders are missing or several naming errors are
+          present. Core structure is recognizable but incomplete.
+        points: 5
+      - description: "Beginning (2)"
+        long_description: >
+          Folder structure is significantly incomplete or created in the
+          wrong location. Minimal evidence of following instructions.
+        points: 2
+
+  - description: "Naming Conventions"
+    long_description: >
+      Folder names follow the specified conventions: root folder uses
+      LastName_Initial format, hyphens replace spaces, numbers prefix
+      top-level folders.
+    points: 8
+    use_range: false
+    ratings:
+      - description: "Excellent (8)"
+        long_description: >
+          All naming conventions followed correctly throughout.
+          Root folder, top-level folders, and sub-folders all named
+          exactly as specified.
+        points: 8
+      - description: "Proficient (6)"
+        long_description: >
+          Naming conventions mostly correct with one or two minor errors
+          that do not affect the usability of the structure.
+        points: 6
+      - description: "Developing (3)"
+        long_description: >
+          Multiple naming errors — spaces instead of hyphens, wrong case,
+          missing number prefixes, or incorrect root folder name.
+        points: 3
+      - description: "Beginning (1)"
+        long_description: >
+          Naming conventions largely ignored. Folders named informally
+          or inconsistently.
+        points: 1
+
+  - description: "Screenshot Quality and Submission"
+    long_description: >
+      The submitted screenshot is clear and shows the required folder
+      structure: root folder name, all four top-level folders, and at
+      least one expanded to show sub-folders.
+    points: 7
+    use_range: false
+    ratings:
+      - description: "Excellent (7)"
+        long_description: >
+          Screenshot clearly shows root folder name, all four top-level
+          folders, and at least one expanded to reveal sub-folders.
+          File is named correctly and submitted.
+        points: 7
+      - description: "Proficient (5)"
+        long_description: >
+          Screenshot shows the required structure but is slightly unclear
+          (e.g., one folder name is cut off) or file is not named as specified.
+        points: 5
+      - description: "Developing (3)"
+        long_description: >
+          Screenshot submitted but does not clearly show all required
+          elements, or the wrong file was submitted.
+        points: 3
+      - description: "Beginning (1)"
+        long_description: >
+          Screenshot missing, shows only a partial structure, or does not
+          demonstrate that the assignment was completed.
+        points: 1
