@@ -145,6 +145,4 @@ You are not just learning software — you are practicing how to work.
 
 **Next: Workload Expectations**
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}

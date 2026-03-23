@@ -116,6 +116,4 @@ Every course in this certificate counts toward the AAS degree.
 
 **Next: Graphic Design Certificate**
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}

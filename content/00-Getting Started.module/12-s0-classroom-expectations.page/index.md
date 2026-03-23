@@ -156,6 +156,4 @@ is likely before a decision is made.
 The **Expectations Quiz** follows this page. It covers everything on this
 page. Read back through anything you are not sure about, then take the quiz.
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}

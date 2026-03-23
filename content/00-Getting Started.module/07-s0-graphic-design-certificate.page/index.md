@@ -130,6 +130,4 @@ Your certificate courses count toward the AAS degree.
 
 **Next: Web Development Certificate**
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}

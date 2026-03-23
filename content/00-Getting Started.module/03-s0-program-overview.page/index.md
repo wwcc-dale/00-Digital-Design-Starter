@@ -26,32 +26,30 @@ timeline changes, you leave with something real.
 Think of the program as building blocks that fit on top of each other:
 
 ```
-Two-Year AAS Degree
-  └── Built on the one-year certificates
-
+Short Certificates (starting point)
+  ├── Graphic Design Essentials     ← design path starter
+  └── Web Design Fundamentals       ← web path starter
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 
 One-Year Certificates (choose one path)
   ├── Digital Design Certificate    ← balanced design + web
   ├── Graphic Design Certificate    ← design-focused
   └── Web Development Certificate   ← code-focused
         └── Each one built on a short certificate
-
-Short Certificates (starting point)
-  ├── Graphic Design Essentials     ← design path starter
-  └── Web Design Fundamentals       ← web path starter
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 
+Two-Year AAS Degree
+  └── Built on the one-year certificates
 ```
 
 If you finish your short certificate and have to stop, you leave with a
-credential. If you continue into a one-year certificate, your short
-certificate work already counts. If you continue to the AAS degree, your
-one-year certificate work already counts.
+meaningful credential to show a prospective employer. If you continue into a one-year certificate, your short certificate work already counts. If you continue to the AAS degree, your one-year certificate work already counts.
 
 Nothing is repeated. Nothing is wasted.
 
 ---
 
-## Choosing a Starting Point
+## The Starting Point
 
-Most students begin with one of the two short certificates.
+Most students begin with the Graphic Design Essentials short certificatre and this is the recommended learning pathway. 
 
 **Start with Graphic Design Essentials if you are drawn to:**
 - Creating visual things — logos, layouts, posters
@@ -71,14 +69,14 @@ Most students begin with one of the two short certificates.
 
 ## At a Glance: All Credentials
 
-| [light] | | |
-|---|---|---|
-| Graphic Design Essentials | ~4 courses | Design tools and principles |
-| Web Design Fundamentals | ~4 courses | Interface design, HTML/CSS, JS basics |
-| Digital Design Certificate | ~45 credits, 1 year | Balanced design + web, website capstone |
-| Graphic Design Certificate | ~60 credits, 1 year | Design-heavy, design portfolio capstone |
-| Web Development Certificate | ~60 credits, 1 year | Code-heavy, web app capstone |
-| AAS Degree | ~90 credits, 2 years | Full program + general education |
+| [light]Certification | credits | courses | months | description|
+|---|---|---|---|---|
+| Graphic Design Essentials | 4 | 20 | 6 | Design tools and principles |
+| Web Design Fundamentals | 4 | 20 | 6 | Interface design, HTML/CSS, JS basics |
+| Digital Design Certificate | 9 | 45 | 12 | Balanced design + web, website capstone |
+| Graphic Design Certificate | 9 | 45 | 12 | Design-heavy, design portfolio capstone |
+| Web Development Certificate | 9 | 45 | 12 | Code-heavy, web app capstone |
+| AAS Degree | 18 | 90 | 24 | Full program + general education |
 
 ---
 
@@ -125,6 +123,4 @@ the whole program helps you make good decisions about your own direction.
 
 **Next: Graphic Design Essentials Short Certificate**
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}

@@ -42,6 +42,4 @@ This Getting Started module walks you through everything you need to know before
 Start with **Job Outlook** and work through the list. You do not need to
 memorize everything — but you do need to read it.
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}

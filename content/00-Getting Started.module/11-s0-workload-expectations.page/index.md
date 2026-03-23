@@ -165,6 +165,4 @@ to the local laptop drive, so your work is accessible from any lab computer.
 
 **Next: Classroom Expectations**
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}

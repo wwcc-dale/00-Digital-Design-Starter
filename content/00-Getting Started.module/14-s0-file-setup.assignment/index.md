@@ -130,6 +130,4 @@ the structure you photographed is the structure you are actually using.
 
 ---
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}

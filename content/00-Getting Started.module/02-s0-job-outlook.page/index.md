@@ -9,18 +9,17 @@ topics:
 - job-outlook
 ---
 
-[lead]Before you invest time learning these skills, it's worth knowing where they lead. This page lays out the careers the Digital Design program prepares you for — and why design and web development skills are genuinely useful, flexible, and in demand.
+[lead]Before you invest time learning these skills, it's worth knowing where they lead. This page lays out the careers for which the Digital Design program prepares you. 
 
 # Job Outlook: Where This Program Leads
 
-Before you invest your time in learning these skills, it is worth knowing where they lead. The short answer: these are real jobs, in growing fields,
-with real pay.
+So why learn to design, and why learn to code? The short answer: these are real jobs, in growing fields, with real pay.
 
 ---
 
 ## The Three Skill Areas — And Their Jobs
 
-Graphic designers create the visual materials that businesses use every day — logos, ads, packaging, social media graphics, print layouts, and more.
+Graphic designers create the visual materials that businesses use every day — logos, ads, packaging, social media graphics, layouts, printed publicatons, and more.
 
 ### Graphic Design
 
@@ -102,7 +101,7 @@ web development jobs do not require you to be in a specific city.
 
 ## What "Sustainable and Profitable" Actually Means
 
-This program's goal is to give you work that is:
+This program's goal is to prepare you for a career that is:
 
 **Sustainable** — Skills you can keep using and building on for years.
 Design and development tools change, but the fundamentals stay the same.
@@ -128,15 +127,15 @@ real people. You create work you can be proud of and show to others.
 Beyond technical skills, employers consistently say they hire people who:
 
 - Can complete projects on time without constant supervision
+- Contibute to a team and collaborate well with other team members 
 - Communicate clearly about what they are doing and why
-- Take feedback and use it to improve their work
+- Listen to feedback, accept constructive criticism and use it to improve their work
 - Show initiative — they do not wait to be told every next step
 - Have a portfolio of real work they can point to
 
-This program is designed to build all of those things alongside the
-technical skills. The pacing expectations, the project assignments, and
-the capstone projects are all preparing you for how professional work
+This program is designed to develop the student's level professionalism by teaching all of skills above alongside the technical aptitudes. The pacing expectations, the project assignments, and the capstone projects are all preparing you for how professional work
 actually functions.
+
 
 ---
 
@@ -146,7 +145,7 @@ Every one-year certificate and the AAS degree end with a **capstone project**.
 This is a major piece of work you build from start to finish — a real website,
 a complete brand identity, or a working web application.
 
-Capstones matter because they are the thing you show employers.
+Capstones matter because they are a real demonstration of your skills you can show prospective employers.
 A certificate without a portfolio project is credentials on paper.
 A certificate with a strong capstone is proof you can do the work.
 
@@ -157,6 +156,3 @@ A certificate with a strong capstone is proof you can do the work.
 The next page, **Program Overview**, explains how the courses, certificates,
 and degree are organized and how they stack together.
 
-{{include:session-footer}}
-
-{{include:completion-checklist}}

@@ -99,6 +99,4 @@ longer credentials. You are not starting over — you are building.
 
 **Next: Web Design Fundamentals Short Certificate**
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}

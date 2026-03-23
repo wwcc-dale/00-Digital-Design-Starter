@@ -140,6 +140,4 @@ Your certificate courses count toward the AAS degree.
 
 **Next: AAS Degree**
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}

@@ -148,6 +148,4 @@ instructor if that is a path you are thinking about.
 
 **Next: Classroom Culture**
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}

@@ -114,6 +114,4 @@ longer credentials.
 
 **Next: Digital Design Certificate**
 
-{{include:session-footer}}
 
-{{include:completion-checklist}}
