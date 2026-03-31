@@ -1,24 +1,24 @@
 ---
-name: "Assignment: File Directory Setup"
-modules:
-  - "Getting Started"
-  - "Assignments"
-published: true
-points_possible: 25
+allowed_extensions:
+- png
+- jpg
+- jpeg
+due_at: null
 grading_type: points
 indent: 2
-submission_types:
-  - online_upload
-allowed_extensions:
-  - png
-  - jpg
-  - jpeg
-due_at: null
+modules:
+- Getting Started
+- Assignments
+name: 'Assignment: File Directory Setup'
 outcomes:
-  - ORI-2
+- ORI-2
+points_possible: 25
+published: true
+submission_types:
+- online_upload
 topics:
-  - file-management
-  - professional-practice
+- file-management
+- professional-practice
 ---
 
 [lead]Before you open a single piece of software or write a line of code, you need a place to put your work. This assignment is your first step toward working like a professional — you will build the folder structure you will use for your entire time in the Digital Design program.
@@ -26,8 +26,8 @@ topics:
 # File Directory Setup
 
 - stats
-- 25 | Points | success
-- online_upload | Submission | accent
+- completion | Required | success
+- online upload | Submission | accent
 
 ---
 
@@ -129,5 +129,3 @@ in addition to reviewing your submission. This is normal — it confirms that
 the structure you photographed is the structure you are actually using.
 
 ---
-
-

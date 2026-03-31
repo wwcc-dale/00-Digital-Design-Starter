@@ -15,10 +15,6 @@ topics:
 
 # Classroom Expectations
 
-The quiz that follows this page draws directly from what is written here.
-Read carefully. Take notes if it helps. You are allowed to look back at this
-page during the quiz.
-
 ---
 
 ## Pace
@@ -34,25 +30,35 @@ your instructor before the end of the week.
 
 ## Technology and Internet Use
 
-Lab computers have internet access. That access is for course-related work
-only.
+Lab computers have internet access. That access is for course-related work only. Video media is restricted to the course files directory (`F:/Class_Files/VIDEO/dd`) unless your coursework or instructor directs you elsewhere.
 
-**Allowed:**
+- flow-tabs
+
+###### Allowed
+
 - Canvas course materials
-- Software tutorials that are part of your coursework
+- Video tutorials from `F:/Class_Files/VIDEO/dd`
+- Websites your coursework or instructor specifically directs you to
 - Program software (Photoshop, Illustrator, VS Code, etc.)
 
-**Not allowed:**
+###### Not Allowed
+
 - Social media and messaging apps
 - Videos, music, or entertainment not related to your coursework
-- Any site or app that is not directly part of what you are working on
+- Websites not directly required by your current coursework
+- Any media outside the approved `F:/Class_Files/VIDEO/dd` directory
 
-**Consequences:**
+###### End-of-Class Exception
 
-| [light] | |
-|---|---|
-| First time | Verbal warning from your instructor |
-| Second time | Directed to return to your housing unit for that session |
+If you are **ahead of your weekly progress expectations**, you may use the last 20 minutes of class to access whatever video or internet content you have available. This is a privilege, not a right — it applies only when your current credit work is on track or ahead of schedule. If your instructor determines you are not ahead, the standard rules apply.
+
+###### Consequences
+
+**First time:** Verbal warning from your instructor
+
+**Second time:** Directed to return to your housing unit for that session
+
+---
 
 ---
 

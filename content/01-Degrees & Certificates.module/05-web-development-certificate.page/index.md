@@ -1,7 +1,7 @@
 ---
 name: "Web Development Certificate (One-Year)"
 modules:
-  - "Getting Started"
+  - "Degrees & Certificates"
 published: true
 outcomes:
   - ORI-1
@@ -91,6 +91,7 @@ what professional developers create at work.
 One of the most satisfying things about this certificate is watching your
 own capability grow:
 
+- steps: indigo
 - **CS 251 / CS 140** — You build static pages that display content
 - **CS 262** — You learn how to work like a professional developer
 - **CS 235** — You learn how applications store and retrieve information

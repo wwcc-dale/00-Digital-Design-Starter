@@ -1,7 +1,7 @@
 ---
 name: "Graphic Design & Web Development AAS Degree"
 modules:
-  - "Getting Started"
+  - "Degrees & Certificates"
 published: true
 outcomes:
   - ORI-1
@@ -97,18 +97,13 @@ the one-year certificates.
 Some students look at the four general education courses and wonder if
 they are really necessary. Here is the honest answer: they are.
 
-**Technical Writing** — Developers and designers spend a large amount of
-their work time writing. Emails, project proposals, documentation, client
-communication. Professionals who write clearly stand out.
-
-**Quantitative Problem Solving** — Web development and data management
-involve math. Not calculus — practical math. Estimating time and cost,
-working with numbers in code, understanding data structures. This course
-builds the foundation.
-
-**Communication in the Workplace** — Being technically skilled and not
-being able to explain your work to a non-technical audience is a real
-career limitation. This course directly addresses that.
+- accordion: Why these courses matter
+- Technical Writing
+  - Developers and designers spend a large portion of their work time writing — emails, project proposals, documentation, client communication. Professionals who write clearly stand out.
+- Quantitative Problem Solving
+  - Web development and data management involve math. Not calculus — practical math: estimating time and cost, working with numbers in code, understanding data structures.
+- Communication in the Workplace
+  - Being technically skilled but unable to explain your work to a non-technical audience is a real career limitation. This course directly addresses that.
 
 The technical skills get you in the door. The communication skills keep
 you there.

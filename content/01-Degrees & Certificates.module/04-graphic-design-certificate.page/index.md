@@ -1,7 +1,7 @@
 ---
 name: "Graphic Design Certificate (One-Year)"
 modules:
-  - "Getting Started"
+  - "Degrees & Certificates"
 published: true
 outcomes:
   - ORI-1
@@ -80,13 +80,15 @@ advanced design courses.
 Your capstone project will be a polished, professional-quality piece of
 design work. You will choose a project type that shows your strengths.
 
-**Examples of capstone projects:**
-
-- A complete brand identity system: logo, color palette, typography, and
-  at least three applications (business card, letterhead, social media profile)
-- A multi-piece advertising campaign with consistent concept and visual voice
-- A designed publication — a magazine feature, report, or booklet
-- A packaging design project with multiple views and mockups
+- accordion: Capstone project examples
+- Brand identity system
+  - A complete brand identity: logo, color palette, typography, and at least three applications — business card, letterhead, social media profile.
+- Advertising campaign
+  - A multi-piece campaign with consistent concept and visual voice across print and digital formats.
+- Publication design
+  - A designed publication — a magazine feature, report, or booklet.
+- Packaging design
+  - A packaging design project with multiple views and product mockups.
 
 You will present your work and explain the decisions you made — why you chose
 the typeface, how the color palette serves the brand, why the layout is

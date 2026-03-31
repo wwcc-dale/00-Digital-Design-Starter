@@ -1,7 +1,7 @@
 ---
 name: "Web Design Fundamentals Short Certificate"
 modules:
-  - "Getting Started"
+  - "Degrees & Certificates"
 published: true
 outcomes:
   - ORI-1
@@ -70,18 +70,9 @@ designed for students who are starting from the beginning.
 
 ---
 
-## About Learning to Code
-
-A lot of students are nervous about writing code. That feeling is normal and
-it goes away faster than you expect.
-
-Here is how it actually works: You start with very small pieces. You write a
-few lines, you see what happens, you adjust. The instructions are step-by-step.
-Your instructor is nearby. You are not expected to figure it out on your own —
-you are expected to work through it with the support that is right here.
-
-Most students who thought coding would be too hard for them end up surprised
-by how quickly it starts to make sense.
+> alert: tip
+>
+> **A lot of students are nervous about writing code.** That feeling is normal and it goes away faster than you expect. You start with very small pieces — write a few lines, see what happens, adjust. The instructions are step-by-step. Your instructor is nearby. You are not expected to figure it out on your own. Most students who thought coding would be too hard end up surprised by how quickly it starts to make sense.
 
 ---
 

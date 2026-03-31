@@ -1,7 +1,7 @@
 ---
 name: "Graphic Design Essentials Short Certificate"
 modules:
-  - "Getting Started"
+  - "Degrees & Certificates"
 published: true
 outcomes:
   - ORI-1
@@ -98,3 +98,5 @@ longer credentials. You are not starting over — you are building.
 ---
 
 **Next: Web Design Fundamentals Short Certificate**
+
+

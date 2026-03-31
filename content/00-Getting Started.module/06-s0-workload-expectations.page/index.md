@@ -1,43 +1,34 @@
 ---
-name: "Workload Expectations"
 modules:
-  - "Getting Started"
-published: true
+- Getting Started
+name: Workload Expectations
 outcomes:
-  - ORI-1
+- ORI-1
+published: true
 topics:
-  - orientation
-  - pace
-  - workload
+- orientation
+- pace
+- workload
 ---
 
 [lead]One of the most important things to get right from the start is your pace. This page makes the expectations concrete — what "one credit per week" actually means in hours, how a typical session is structured, and what to do if you fall behind.
 
 # Workload Expectations
-
-One of the most important things to understand before your first session is
-what "steady progress" actually means in this program. This page makes it
-concrete.
-
----
-
-## The Core Expectation: One Credit Per Week
+### One Credit completed Every Week
 
 Every student in this program is expected to complete **one credit per week**.
 
 A credit is five sessions. Each session is about three hours of focused work.
 That is **fifteen hours per week**.
 
-That number might sound like a lot. Here is how it breaks down:
+That number might sound like a lot, but if you attend every session and work hard, breathe easy, you'll get it done. If you miss classes you'll get behind and it will be a loy harder to keep up. Here is how it breaks down:
 
-| [light] | |
-|---|---|
-| 5 sessions per week | ~3 hours per session |
-| 4 sessions per week | ~3.75 hours per session |
-| 3 sessions per week | ~5 hours per session |
-
-Most students do best with five consistent sessions — one per day, every day.
-That keeps the material fresh and keeps the pace achievable.
+| [light]Attendance | Class Time | Homework|
+|---|---|--|
+| Perfect | 5 x 3 = 15hrs | Minimal |
+| One Session Missed | 4 x 3 = 12 hours | 3+ hours |
+| Two Sessions Missed | 3 x 3 = 9 hours | 6+ hours |
+| Three Sessions Missed | 2 x 3 = 6 hours | 9+ hours |
 
 ---
 
@@ -82,12 +73,13 @@ talk to your instructor before the end of the week to figure out a plan.
 
 Each session is built around six parts, in order:
 
-1. **Reading** — A textbook section with a focus note and estimated reading time
-2. **Video** — A tutorial that demonstrates the concept or tool
-3. **Key Concepts Review** — A written explanation with examples you can refer back to
-4. **Exercise** — A hands-on task with three levels (Base, Intermediate, Advanced)
-5. **Practice Quiz** — A self-check to confirm your understanding before moving on
-6. **Wrap-Up** — A summary of what you did and what comes next
+- steps: indigo
+- **Reading** — A textbook section with a focus note and estimated reading time
+- **Video** — A tutorial that demonstrates the concept or tool
+- **Key Concepts Review** — A written explanation with examples you can refer back to
+- **Exercise** — A hands-on task with three levels (Base, Intermediate, Advanced)
+- **Practice Quiz** — A self-check to confirm your understanding before moving on
+- **Wrap-Up** — A summary of what you did and what comes next
 
 A full session — reading, video, exercise, and everything else — is designed
 to fit within three hours. Some sessions are faster. A few are longer.
@@ -99,15 +91,21 @@ If you are consistently running out of time, talk to your instructor.
 
 Every exercise in this program has three levels:
 
-**Base** — The minimum. All students are expected to complete this level.
-It uses only skills from the current session and earlier sessions. You should
-not need to figure anything out on your own beyond following the instructions.
+- flow-tabs
 
-**Intermediate** — One step further. An added constraint or complexity layer.
-If you finish Base with time left in the session, try this.
+###### Base
 
-**Advanced** — Significant extension. Sometimes previews skills from a later
-session. If you finish Intermediate and still have time, challenge yourself here.
+The minimum required level. All students are expected to complete this. Uses only skills from the current session and earlier — follow the instructions and you should not need to figure anything out on your own.
+
+###### Intermediate
+
+One step further: an added constraint or complexity layer. If you finish Base with time left in the session, try this level.
+
+###### Advanced
+
+A significant extension — sometimes previews skills from a later session. If you finish Intermediate and still have time, challenge yourself here.
+
+---
 
 You are not penalized for stopping at Base. You are not expected to reach
 Advanced every time. But students who consistently push to Intermediate or
@@ -164,5 +162,3 @@ to the local laptop drive, so your work is accessible from any lab computer.
 ---
 
 **Next: Classroom Expectations**
-
-

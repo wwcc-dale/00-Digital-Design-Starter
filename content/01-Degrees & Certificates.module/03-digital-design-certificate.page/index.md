@@ -1,7 +1,7 @@
 ---
 name: "Digital Design Certificate (One-Year)"
 modules:
-  - "Getting Started"
+  - "Degrees & Certificates"
 published: true
 outcomes:
   - ORI-1
@@ -68,13 +68,13 @@ deciding.
 
 This is the course where everything comes together. You will:
 
-1. Choose a real-world website purpose (a small business, portfolio, community
-   resource, or similar)
-2. Research your users and plan the site structure
-3. Create wireframes and visual designs
-4. Build the site using HTML, CSS, JavaScript, and responsive design
-5. Test it with real users and improve it based on their feedback
-6. Launch it to a live server
+- steps: indigo
+- Choose a real-world website purpose (a small business, portfolio, community resource, or similar)
+- Research your users and plan the site structure
+- Create wireframes and visual designs
+- Build the site using HTML, CSS, JavaScript, and responsive design
+- Test it with real users and improve it based on their feedback
+- Launch it to a live server
 
 The result is a published website in your portfolio — proof that you can
 carry a web project from idea to launch.

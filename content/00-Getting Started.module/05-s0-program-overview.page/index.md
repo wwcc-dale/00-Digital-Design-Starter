@@ -1,27 +1,20 @@
 ---
-name: "Program Overview: Certificates and the Degree"
 modules:
-  - "Getting Started"
-published: true
+- Getting Started
+name: 'Program Overview: Certificates and the Degree'
 outcomes:
-  - ORI-1
+- ORI-1
+published: true
 topics:
-  - orientation
-  - program-structure
-  - certificates
+- orientation
+- program-structure
+- certificates
 ---
 
 [lead]The Digital Design program is built so that every course you complete counts toward something — and shorter credentials stack directly into longer ones. This page gives you the full picture: how the certificates and degree fit together and how to choose your starting point.
 
-# Program Overview: Certificates and the Degree
-
-The {{var:program_name}} is built so that every course counts — and nothing
-is wasted. Shorter credentials stack directly into longer ones. If your
-timeline changes, you leave with something real.
-
----
-
-## The Stackable Structure
+# Program Overview: 
+### Five Certificates and the Degree
 
 Think of the program as building blocks that fit on top of each other:
 
@@ -51,19 +44,19 @@ Nothing is repeated. Nothing is wasted.
 
 Most students begin with the Graphic Design Essentials short certificatre and this is the recommended learning pathway. 
 
-**Start with Graphic Design Essentials if you are drawn to:**
-- Creating visual things — logos, layouts, posters
-- Color, fonts, and how things look
-- Working with images and illustrations
+- flow-tabs
 
-**Start with Web Design Fundamentals if you are drawn to:**
-- How websites are built
-- Writing code
-- How the internet works
+###### Graphic Design Path
 
-> alert: info
->
-> **Not sure yet?** That is completely normal. Talk to your instructor. Many students have a clearer sense of which direction they prefer after completing their first two or three courses. You can always adjust your path.
+You're a good fit if you're drawn to creating visual things — logos, layouts, posters. You care about color, fonts, and how things look. You want to work with images and illustrations.
+
+###### Web Development Path
+
+You're a good fit if you're curious about how websites are built. You want to write code — even if the idea is new or a little intimidating. You like solving problems that have clear, testable answers.
+
+###### Not Sure Yet?
+
+That is completely normal. Talk to your instructor. Many students have a clearer sense of which direction they prefer after completing their first two or three courses. You can always adjust your path — nothing is wasted either way.
 
 ---
 
@@ -85,7 +78,7 @@ Most students begin with the Graphic Design Essentials short certificatre and th
 Every one-year certificate and the AAS degree end with a capstone project.
 There are three capstones in the program, each matched to a path:
 
-| [light] | | |
+| [light] course | certification | deliverable |
 |---|---|---|
 | BUS 288 – Web Building Capstone | Digital Design Cert | A complete, launched website |
 | BUS 289 – Graphic Design Capstone | Graphic Design Cert | A portfolio-ready design project |
@@ -96,31 +89,30 @@ project from start to finish — which is exactly what the job requires.
 
 ---
 
-## About General Education (AAS Only)
+## Support Classes (AAS Only)
 
-The two-year AAS degree includes four general education courses that are
+For the sake of expediency, the requirement for support classes were recently dropped on all certificates. **That does not mean that they are not valuable** Often a job applicant's **soft skills** can make a huge difference between getting hired or not. 
+
+Good writing and basic math skills combined with understanding how to communicate professionally, might land you the job. So if you have the time to take these courses you absolutely *should*.
+
+The two-year AAS degree requires three general education courses that are
 not required for the certificates:
 
 - Technical Writing
 - Quantitative Problem Solving
 - Communication in the Workplace
-- Intro to Computers and Applications
 
-These are not filler courses. They build the communication and critical
-thinking skills that separate candidates who get hired from those who do not.
-
----
-
-## The Next Six Pages
-
-Each of the six credentials has its own page with the full course list,
-who each credential is for, and the jobs it prepares you for.
-
-Read the pages that match your planned path. Skim the others — understanding
-the whole program helps you make good decisions about your own direction.
+Again, these are not filler courses. They build the communication and critical
+thinking skills that separate candidates who get hired or passed over.
 
 ---
 
-**Next: Graphic Design Essentials Short Certificate**
+## Explore the Credentials
 
+Each credential has its own page with the full course list, what it prepares you for, and the jobs it leads to. Those pages live in the **Degrees & Certificates** module — available from the course navigation once you finish this orientation.
 
+Read the pages that match your planned path. Skim the others — understanding the whole program helps you make better decisions about your own direction.
+
+---
+
+**Next: Workload Expectations**
