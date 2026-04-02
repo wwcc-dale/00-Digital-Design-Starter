@@ -13,6 +13,11 @@ topics:
 
 This orientation module walks you through the program, the classroom, and what's expected before you begin your first credit course.
 
+Your coursework is currently located on the lab computers. Use the button below to open it — you will find this is where you spend most of your class time.
+
+- buttons: center
+- Open Course Materials | file:///F:/Class_Files/COURSES/dd/01-intro-computers-apps/00-start-here.html | primary | book-open
+
 
 ### The Program at a Glance
 

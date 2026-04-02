@@ -17,12 +17,27 @@ topics:
 
 ---
 
+## Finding Your Course Materials
+
+Course materials are moving to Canvas — the goal is for everything to be accessible through your Canvas login. That transition is ongoing, and some courses are further along than others. Your instructor will tell you where to find materials for whichever course you are currently in.
+
+Some courses still use the program's file-based system. Your first course starts at `F:/Class_Files/COURSES/dd/01-intro-computers-apps/00-start-here.html`. That directory also contains shared resources useful across all courses:
+
+| [light] | |
+|---|---|
+| `images` | Stock photography library for use in your coursework |
+| `topics` | Book PDFs and captured reference websites |
+
+Ask your instructor if you are unsure where to look for anything.
+
+---
+
 ## The Weekly Rhythm
 
 This program runs on a clear weekly cycle. Every student follows the same pattern, regardless of which course or credit module they are currently in.
 
 - steps: indigo
-- **Work through the week** — complete your credit module sessions at your own pace across the week, targeting one credit (five sessions) by Friday
+- **Work through the week** — complete your credit module sessions across the week, one credit (five sessions) by Friday is the expectation for every student
 - **Submit on Friday** — all completed credit work is due by the end of class on Friday
 - **Monday check-in** — your instructor will follow up with you individually on Monday to review your progress and build a work plan for the week ahead
 

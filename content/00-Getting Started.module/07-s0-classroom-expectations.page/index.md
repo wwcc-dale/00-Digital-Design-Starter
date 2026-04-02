@@ -28,37 +28,23 @@ your instructor before the end of the week.
 
 ---
 
-## Technology and Internet Use
+## Internet, Video, and Digital Content
 
-Lab computers have internet access. That access is for course-related work only. Video media is restricted to the course files directory (`F:/Class_Files/VIDEO/dd`) unless your coursework or instructor directs you elsewhere.
+Video and web content that is embedded or linked within your Canvas course pages or course materials is always allowed — follow the coursework and you will not run into restrictions.
 
-- flow-tabs
+Independent browsing is where the rules apply. For video outside of course materials, use only the Digital Design directory: `F:/Class_Files/VIDEOS/dd`. The parent directory is shared across departments — content outside the `dd` folder belongs to other programs and is off limits. For the web, stay on sites your coursework or instructor specifically directs you to.
 
-###### Allowed
+There is no time during class to waste. That said, students who stay on task can earn unrestricted time at the end of class. Both conditions must be met:
 
-- Canvas course materials
-- Video tutorials from `F:/Class_Files/VIDEO/dd`
-- Websites your coursework or instructor specifically directs you to
-- Program software (Photoshop, Illustrator, VS Code, etc.)
+1. Your session for the day is complete and you are on track for your weekly credit goal.
+2. You have worked productively for the full session — your instructor's judgment applies.
 
-###### Not Allowed
+Students who meet both conditions may use the **final 30 minutes** of class for unrestricted video and web browsing. Students who do not meet both conditions are subject to the standard rules until the end of class.
 
-- Social media and messaging apps
-- Videos, music, or entertainment not related to your coursework
-- Websites not directly required by your current coursework
-- Any media outside the approved `F:/Class_Files/VIDEO/dd` directory
+**Consequences for off-task use before earning that time:**
 
-###### End-of-Class Exception
-
-If you are **ahead of your weekly progress expectations**, you may use the last 20 minutes of class to access whatever video or internet content you have available. This is a privilege, not a right — it applies only when your current credit work is on track or ahead of schedule. If your instructor determines you are not ahead, the standard rules apply.
-
-###### Consequences
-
-**First time:** Verbal warning from your instructor
-
-**Second time:** Directed to return to your housing unit for that session
-
----
+- **First offense:** Verbal warning
+- **Second offense:** Directed to return to your housing unit for the remainder of the session
 
 ---
 
@@ -147,7 +133,7 @@ is likely before a decision is made.
 | [light] | |
 |---|---|
 | Weekly pace | One credit (five sessions) per week |
-| Internet use | Course-related only; off-task use leads to warning, then removal |
+| Internet use | Course-related only; video restricted to `F:/Class_Files/VIDEOS/dd`; final 30 min unrestricted if sessions done and on pace |
 | Asking for help | Ask when stuck — do not wait |
 | Helping classmates | Explain; do not do the work for them |
 | Sessions per day | One ordinarily; two only by instructor request |

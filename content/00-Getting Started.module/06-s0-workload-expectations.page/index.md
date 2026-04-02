@@ -32,15 +32,11 @@ That number might sound like a lot, but if you attend every session and work har
 
 ---
 
-## Why "Go at Your Own Pace" Has Limits
+## Everyone Has the Same Expectation
 
-This program is sometimes described as self-paced. That is true in the sense
-that you are not locked into a fixed daily schedule. You move through the
-material step by step, at your own computer, in your own order.
+Every student in this program has the same progress requirement: one credit per week. Where students differ is where they are in the curriculum — on any given day, the people around you may be in completely different courses. That is normal and expected.
 
-But it does not mean you can take as long as you want.
-
-Here is why the pace requirement exists:
+What is not flexible is the rate of progress. Here is why:
 
 **Your credential has a timeline.** A one-year certificate takes one year
 because of the number of courses and credits involved. If you complete half

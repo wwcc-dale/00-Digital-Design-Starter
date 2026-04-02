@@ -58,8 +58,8 @@ On the design side: Adobe Photoshop and Illustrator primarily, with exposure to 
 
 - flow-accordion
 
-###### This is self-paced — can I take my time and go slowly?
-Self-paced means you move through the material at your own computer on your own schedule — not that you can take as long as you want. Every student is expected to complete **one credit per week**. A credit is five sessions, each about three hours of focused work. If you consistently complete less than one credit per week, you will fall behind and may not finish your credential on time. Pace matters.
+###### Everyone around me seems to be working on something different — do we all have the same expectations?
+Yes. Every student has the same progress requirement: **one credit per week**. Where students differ is where they are in the curriculum — students enroll at different times and are likely working on completely different courses on any given day. That is normal. The expectation for how fast you move through your own work is the same for everyone. A credit is five sessions, each about three hours of focused work. If you consistently complete less than one credit per week, you will fall behind and may not finish your credential on time.
 
 ###### What does "one credit per week" mean in actual hours?
 Roughly fifteen hours of focused work per week — five sessions at about three hours each. You can spread those sessions however you like. One per day is the most sustainable approach for most students. Three longer sessions is harder but doable. Two sessions is a pace problem waiting to happen.
@@ -99,7 +99,7 @@ Yes — and you should. Asking for help when you are stuck is expected, not an i
 Yes, and it benefits you too. Explaining a concept to someone else forces you to organize your own understanding of it — students who help others regularly perform better on their own assessments. Help by explaining: walk the other student through the thinking, point to the instruction they need, ask questions that lead them to the answer. Do not do the work for them. Completing another student's assignment is not allowed.
 
 ###### Will everyone in the room be working on the same thing?
-Almost certainly not. This is a non-cohort classroom, which means students enroll at different times and move at their own pace. On any given day, students around you may be in completely different courses. That is normal. Do not look around and compare — focus on your own work and your own pace.
+Almost certainly not. Students enroll at different points in the year, so on any given day the people around you are likely at completely different places in the curriculum. Everyone has the same progress expectation — one credit per week — but because start dates vary, everyone is working on different material at different times. That is by design. Do not look around and compare — focus on your own work.
 
 ###### What is Documentary Friday?
 Once a week, the computers go off and the whole room watches a documentary together. The films are chosen to broaden your frame of reference — to show what professionals at the top of their fields accomplish, how creative work gets made, and where design and technology intersect with culture and human experience. Participation is mandatory. Log off your computer, put your phone away, and give the film your full attention. After the screening there is time for open discussion. You are encouraged to collect your thoughts, share your perspective, and respectfully disagree with what you saw or with what others say.
@@ -114,11 +114,30 @@ Say so. Respectful disagreement is welcome and valuable. Take a moment to organi
 - flow-accordion
 
 ###### Can I use the internet however I like during class?
-No — and the reason is straightforward: there is not enough time to waste any of it. Internet access is for course-related work only. Video media is restricted to the course files directory (`F:/Class_Files/VIDEO/dd`) unless your coursework or instructor directs you somewhere specific. Social media, messaging apps, entertainment, and anything outside your current coursework are not allowed.
+No — there is not enough time in class to waste any of it. Video and web content embedded or linked within your Canvas course pages or course materials is always allowed. The restrictions apply to independent browsing — navigating the file system or the web outside of what the coursework directs you to. For video, that means the Digital Design directory only: `F:/Class_Files/VIDEOS/dd`. Content outside that folder belongs to other programs.
 
-There is one exception: if you are **ahead of your weekly progress expectations**, you may use the last 20 minutes of class to access whatever video or internet content you have available. Stay on pace and that time is yours.
+That said, you can earn unrestricted time at the end of class. If your session for the day is complete, you are on track for your weekly credit goal, and you have worked productively throughout the session, you may use the **final 30 minutes** for unrestricted browsing. Both conditions have to be met — your instructor determines whether they are.
 
-If your instructor sees off-task internet or media use, you will receive a verbal warning. A second offense means you will be directed to return to your housing unit for that session.
+Off-task use before earning that time earns a verbal warning. A second offense means you are directed back to your housing unit for the rest of the session.
+
+###### Where do I find my course materials?
+Course materials are in the process of moving to Canvas — the goal is for everything to be accessible through your Canvas login. That transition takes time, and some courses are further along than others.
+
+In the meantime, most materials are still served from the program's existing file-based system. Your first course starts here:
+
+- buttons
+- Open Course Materials | file:///F:/Class_Files/COURSES/dd/01-intro-computers-apps/00-start-here.html | primary | book-open
+
+Your instructor will tell you which courses have moved fully to Canvas. When in doubt, ask.
+
+Beyond the course materials themselves, the `F:/Class_Files/COURSES/dd/` directory contains resources useful throughout the program:
+
+| [light] | |
+|---|---|
+| `images` | Stock photography library — free to use in your coursework |
+| `topics` | Archive of book PDFs and captured reference websites |
+
+Your instructor can point you to other folders relevant to your current work.
 
 ###### Can I use AI tools like ChatGPT for assignments?
 Talk to your instructor. AI tools are increasingly part of professional design and development workflows and this program takes them seriously as real tools. How and when they are appropriate for specific assignments is something your instructor will address in the relevant courses. Using AI to complete assigned work you are supposed to do yourself is an academic integrity issue regardless of the tool.

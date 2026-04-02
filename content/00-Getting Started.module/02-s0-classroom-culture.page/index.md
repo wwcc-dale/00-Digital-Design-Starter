@@ -45,9 +45,7 @@ In this room:
   They circulate, check in, answer questions, and help students who are stuck.
   If you need them, catch their eye or raise your hand.
 
-- **You do not need to wait for anyone to "cover" the material.** You start
-  each item when you are ready and work through it at your own speed — within
-  the expected weekly pace.
+- **You do not need to wait for anyone to "cover" the material.** Every student is working independently through the curriculum. You start each item when you reach it — the expectation is one credit completed per week, regardless of where you are in the course sequence.
 
 ---
 
